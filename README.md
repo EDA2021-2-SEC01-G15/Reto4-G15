@@ -1,8 +1,4 @@
-Req. 1,4 - Alan Fonseca Garcia, a.fonsecag@uniandes.edu.co, 202111432
-
-Req. 2,3 - Juan Pablo Junco, jp.junco@uniandes.edu.co, 201912957
-
-Req. 5 - Grupal
+202111432 - Alan Fonseca Garcia - a.fonsecag@uniandes.edu.co
 
 #ISIS1225 - Librerias de soporte
 
